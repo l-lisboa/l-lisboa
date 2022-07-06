@@ -4,11 +4,10 @@
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas.
 ##
 
-<div align="left">
-  <a href="https://github.com/l-lisboa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=l-lisboa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-lisboa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align=center>
+<div align=center>
+<img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=l-lisboa&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
+<img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=l-lisboa&theme=onedark" />
 
 <div>
 
