@@ -12,7 +12,7 @@
 
 <img align=left width=362 src="https://github-readme-stats.vercel.app/api?username=l-lisboa&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
 <img align=right  width=362 src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-lisboa&layout=compact&hide_border=none_count=7&theme=onedark"/> 
-<img align=center width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=l-lisboa&theme=onedark&layout=compact&hide_border=true&show" />
+<img align=left width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=l-lisboa&theme=onedark&layout=compact&hide_border=true&show" />
 
 
   ![Snake animation](https://github.com/l-lisboa/l-lisboa/blob/output/github-contribution-grid-snake.svg)
