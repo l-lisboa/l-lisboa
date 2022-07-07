@@ -9,11 +9,13 @@
 
 ##
 
-
+<div style="display: inline_block"><br>
 <img align=left width=362 src="https://github-readme-stats.vercel.app/api?username=l-lisboa&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
 <img align=right  width=362 src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-lisboa&layout=compact&hide_border=none_count=7&theme=onedark"/>
+</div>
 
-
+<div align= "center" >
+  
   ![Snake animation](https://github.com/l-lisboa/l-lisboa/blob/output/github-contribution-grid-snake.svg)
   
 </div>
