@@ -4,8 +4,8 @@
     Obrigado pela visita ✌
    </h1>
 
-  <p>🌱 Estudante de Análise e Desenvolvimento de Sistemas 🖥️.</p>
-  <p>🎓 Formado em Engenharia Elétrica ⚡.</p>
+  <h3>🌱 Estudante de Análise e Desenvolvimento de Sistemas 🌱.</h3>
+  <h3>⚡ Formado em Engenharia Elétrica ⚡.</h3>
   <a href="https://www.linkedin.com/in/leandro-da-silva-lisboa/"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/leandro_silva_lisboa/"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.facebook.com/leandroleolisboa"><img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
