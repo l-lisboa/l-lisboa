@@ -1,24 +1,25 @@
 <div align="center">
-<h1>Olá!! Me Chamo Leandro 👋</h1>
-<h2>Obrigado pela visita ✌</h2>
+  <h1>
+    Olá!! Me Chamo Leandro 👋<br>
+    Obrigado pela visita ✌
+   </h1>
 
-<p>🌱 Estudante de Análise e Desenvolvimento de Sistemas 🖥️.</p>
-<p>🎓 Formado em Engenharia Elétrica ⚡.</p>
+  <p>🌱 Estudante de Análise e Desenvolvimento de Sistemas 🖥️.</p>
+  <p>🎓 Formado em Engenharia Elétrica ⚡.</p>
 
-<div style="display: inline_block"><br>
-<h3> Conhecimento atual: 
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="GITHUB" height="30" width="40" src="" />
-</h3>
-
-<h3> Conhecimento futuro: 
-<img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /">
-<img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /">          
-</h3>
-
-</div>
+  <div style="display: inline_block"><br>
+    <h3> Conhecimento atual: 
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="GITHUB" height="25" width="30" src="https://github.com/l-lisboa/l-lisboa/blob/main/logo_github_branco.png">
+    </h3>
+    <h3> Conhecimento futuro: 
+    <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /">
+    <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /">          
+    </h3>
+  </div>
+  
 </div>
 
 ##
